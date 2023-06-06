@@ -9,3 +9,8 @@ var weightNow = 168
 var isMarried = true
 var isHungry = false
 var isVactioning = false
+
+//Strings
+var firstName = "Ann"
+var lastName = "Hochworter"
+var momFirstName = "Sally"
